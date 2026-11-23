@@ -1,0 +1,8 @@
+{
+  "identifier": "main",
+  "windows": ["main"],
+  "permissions": [
+    "core:event:default",
+    "core:window:allow-destroy"
+  ]
+}
